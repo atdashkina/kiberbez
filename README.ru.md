@@ -1,43 +1,4 @@
----
-title: ""
-author:
-  - name: "Дмитрий Сергеевич Кулябов"
-    degrees: "DSc"
-    orcid: "0000-0002-0877-7063"
-    email: "kulyabov-ds@rudn.ru"
-    affiliation:
-      name: "Российский университет дружбы народов"
-      country: "Российская Федерация"
-      postal-code: "117198"
-      city: "Москва"
-      address: "ул. Миклухо-Маклая, д. 6"
-license: "CC BY"
-abstract: |
-  В данном отчёте представлены результаты выполнения лабораторной работы по теме защиты данных сегмента АСУ ТП (Сценарий №4).
 
-  Описаны этапы сценария атаки, выявленные уязвимости, выполненные действия по их устранению и анализ событий информационной безопасности.
-keywords:
-  - "лабораторная работа"
-  - "защита данных"
-  - "АСУ ТП"
-  - "информационная безопасность"
-  - "Сценарий №4"
-lang: ru-RU
-format:
-  pdf:
-    pdf-engine: lualatex
-    mainfont: "Times New Roman"
-    sansfont: "Arial"
-    monofont: "Courier New"
-    papersize: a4
-    geometry:
-      - top=2cm
-      - bottom=2cm
-      - left=2cm
-      - right=2cm
-    fig-pos: H
-    keep-tex: true
----
 
 # ОТЧЕТ ПО ЛАБОРАТОРНОЙ РАБОТЕ
 
