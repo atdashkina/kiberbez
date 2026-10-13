@@ -92,7 +92,7 @@
 Поиск возвратил **157 записей**. Среди них присутствуют неудачные попытки входа с именем пользователя `core.bootstrap@ampire.corp`, а также записи об успешном входе пользователя `peary.robert@ampire.corp` с того же IP-адреса.
 
 <div align="center">
-<img src= (report/image/01.jpg) alt="Поиск событий Umbraco по IP-адресу нарушителя" width="800"><br>
+<img src= (report/image/1.png) alt="Поиск событий Umbraco по IP-адресу нарушителя" width="800"><br>
 <em>Рисунок 1 — Поиск событий в журнале Umbraco по адресу 195.239.174.11</em>
 </div>
 
